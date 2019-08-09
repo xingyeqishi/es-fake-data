@@ -1,0 +1,16 @@
+exports.id = "main";
+exports.modules = {
+
+/***/ "./src/server.js":
+/*!***********************!*\
+  !*** ./src/server.js ***!
+  \***********************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: /Users/xiji/workspace/fe-fake/src/server.js: Unexpected token (103:4)\n\n\u001b[0m \u001b[90m 101 | \u001b[39m\t\t\u001b[36mconst\u001b[39m result \u001b[33m=\u001b[39m await client\u001b[33m.\u001b[39mbulk({\u001b[0m\n\u001b[0m \u001b[90m 102 | \u001b[39m\t\t\tbody\u001b[33m:\u001b[39m dataArr\u001b[33m.\u001b[39mflatMap(source \u001b[33m=>\u001b[39m [{\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 103 | \u001b[39m\t\t\t\t{ index\u001b[33m:\u001b[39m { _index\u001b[33m:\u001b[39m control\u001b[33m.\u001b[39mindex\u001b[33m,\u001b[39m _type\u001b[33m:\u001b[39m \u001b[32m\"log\"\u001b[39m\u001b[33m,\u001b[39m _id\u001b[33m:\u001b[39m source\u001b[33m.\u001b[39mid  }  }\u001b[33m,\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m     | \u001b[39m\t\t\t\t\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 104 | \u001b[39m\t\t\t\tsource\u001b[0m\n\u001b[0m \u001b[90m 105 | \u001b[39m\t\t\t}])\u001b[0m\n\u001b[0m \u001b[90m 106 | \u001b[39m\t\t})\u001b[0m\n    at Object.raise (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:6325:17)\n    at Object.unexpected (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:7642:16)\n    at Object.parseIdentifierName (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:9521:18)\n    at Object.parseIdentifier (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:9499:23)\n    at Object.parseMaybePrivateName (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:8863:19)\n    at Object.parsePropertyName (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:9319:98)\n    at Object.parseObjectMember (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:9220:10)\n    at Object.parseObj (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:9154:25)\n    at Object.parseExprAtom (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:8784:28)\n    at Object.parseExprAtom (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:3601:20)\n    at Object.parseExprSubscripts (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:8412:23)\n    at Object.parseMaybeUnary (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:8392:21)\n    at Object.parseExprOps (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:8267:23)\n    at Object.parseMaybeConditional (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:8240:23)\n    at Object.parseMaybeAssign (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:8187:21)\n    at Object.parseExprListItem (/Users/xiji/workspace/fe-fake/node_modules/@babel/parser/lib/index.js:9491:18)");
+
+/***/ })
+
+};
+//# sourceMappingURL=main.2fcc4d1b0154e17038ed.hot-update.js.map
